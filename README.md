@@ -74,7 +74,7 @@ Slicers for Year, Supplier, and Item Type
 Category	Details
 Tool	Microsoft Excel
 Techniques	Data Cleaning, Analysis, Visualization
-Functions	IF, XLOOKUP, SUMIFS, COUNTIFS, DATE
+Functions	IF, XLOOKUP, DATE
 Visualization	Pivot Charts, Slicers, KPIs, Conditional Formatting
 
 🏁 Project Outcome
